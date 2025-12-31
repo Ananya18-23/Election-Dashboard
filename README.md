@@ -15,6 +15,7 @@ This dashboard analyzes BJP's electoral dominance, showcasing a drop from 303 se
 3. Tech Stack
    
    List the key technologies used to build the dashboard.
+   
    Example:
    The dashboard was built using the following tools and technologies:
    
