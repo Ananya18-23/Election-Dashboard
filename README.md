@@ -53,5 +53,5 @@ Campaign Strategy: BJP can target national soft spots while leveraging MP strong
 Voter Analysis: Rising turnout signals engagement; INC gains suggest opposition momentum outside BJP bastions.
 
 ### 6. Screenshots / Demos
-
+snapshot of the dashboard.png
 ​
